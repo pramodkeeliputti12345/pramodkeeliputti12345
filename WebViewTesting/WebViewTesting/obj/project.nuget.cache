@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "3+FbekUJ8otHvTv7o1BDH/D6F7eL/m0Gj3x4BktKwZuvlGZbeiPyJQZSkktC996KmXKqdO5rPalZRlQmef9mpA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\310246797\\source\\repos\\WebViewTesting\\WebViewTesting\\WebViewTesting.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\310246797\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\310246797\\.nuget\\packages\\selenium.webdriver\\4.0.0-beta4\\selenium.webdriver.4.0.0-beta4.nupkg.sha512"
+  ],
+  "logs": []
+}
