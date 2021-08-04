@@ -1,0 +1,6 @@
+1. Start selenium grid 4 (selenium-server-4.0.0-beta-4.jar) in standalone mode.
+2. Load project WebViewTesting in visual studio 2019.
+3. Copy 'SampleApp' folder under c drive.
+4. Run the WebViewTesting application. 
+
+Exception occurse @ line number 16. (IWebDriver webDriver = new RemoteWebDriver(new Uri("http://127.0.0.1:4444"),edgeOptions);)
